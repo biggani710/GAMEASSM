@@ -11,6 +11,7 @@ TagManager:
   - Waypoint
   - Enemy
   - Gem
+  - Audio
   layers:
   - Default
   - TransparentFX

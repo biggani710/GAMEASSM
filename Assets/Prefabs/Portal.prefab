@@ -133,7 +133,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a9b4103a990c6f438cd0385292af682, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportDestination: {fileID: 0}
+  teleportDestination: {fileID: 1775442563059133438, guid: a6db5adc33547524da02b68d8ee23bc3, type: 3}
 --- !u!54 &5907994118019227729
 Rigidbody:
   m_ObjectHideFlags: 0

@@ -754,11 +754,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 67547a6f-ad74-4402-a0b7-b9192e590748
+  cloudProjectId: 9fba9a67-b2f6-4804-8337-9a4bbc904d1c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: GAMEASSM
-  organizationId: bigsu710
+  projectName: DatMT_PS38960
+  organizationId: datmtps38960
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

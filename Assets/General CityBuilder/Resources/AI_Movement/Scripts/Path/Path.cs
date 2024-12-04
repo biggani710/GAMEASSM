@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -59,5 +60,10 @@ public class Path : MonoBehaviour
                 Gizmos.DrawLine(nodos[i], nodos[i+1]);
             }
         }
+    }
+
+    internal static string GetFullPath(string v)
+    {
+        throw new NotImplementedException();
     }
 }

@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Enemy
   - Waypoint
+  - Depredador
+  - Gem
+  - Respaw
   layers:
   - Default
   - TransparentFX
